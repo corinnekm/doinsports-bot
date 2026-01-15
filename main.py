@@ -8,7 +8,7 @@ from playwright.async_api import async_playwright
 # ---------------------------------------------------------
 
 CLUB_URL = "https://app.doinsports.com/club/mouratoglou-country-club"
-HEURE_CIBLE = "12:30"
+HEURE_CIBLE = "14:30"
 
 # Jour cible = aujourd’hui + 7 jours
 JOUR_INDEX = 7
